@@ -1,0 +1,15 @@
+E:\Projects\c#\section_10\bin\Debug\net7.0\section_10.exe
+E:\Projects\c#\section_10\bin\Debug\net7.0\section_10.deps.json
+E:\Projects\c#\section_10\bin\Debug\net7.0\section_10.runtimeconfig.json
+E:\Projects\c#\section_10\bin\Debug\net7.0\section_10.dll
+E:\Projects\c#\section_10\bin\Debug\net7.0\section_10.pdb
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.csproj.AssemblyReference.cache
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.AssemblyInfoInputs.cache
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.AssemblyInfo.cs
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.csproj.CoreCompileInputs.cache
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.dll
+E:\Projects\c#\section_10\obj\Debug\net7.0\refint\section_10.dll
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.pdb
+E:\Projects\c#\section_10\obj\Debug\net7.0\section_10.genruntimeconfig.cache
+E:\Projects\c#\section_10\obj\Debug\net7.0\ref\section_10.dll
