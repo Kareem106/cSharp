@@ -1,0 +1,15 @@
+E:\Projects\c#\cSharp_task\bin\Debug\net7.0\task.exe
+E:\Projects\c#\cSharp_task\bin\Debug\net7.0\task.deps.json
+E:\Projects\c#\cSharp_task\bin\Debug\net7.0\task.runtimeconfig.json
+E:\Projects\c#\cSharp_task\bin\Debug\net7.0\task.dll
+E:\Projects\c#\cSharp_task\bin\Debug\net7.0\task.pdb
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.AssemblyInfo.cs
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.dll
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\refint\task.dll
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.pdb
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\task.genruntimeconfig.cache
+E:\Projects\c#\cSharp_task\obj\Debug\net7.0\ref\task.dll

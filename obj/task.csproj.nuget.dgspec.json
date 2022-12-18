@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\c#\\cSharp_task\\section_10.csproj": {}
+    "E:\\Projects\\c#\\cSharp_task\\task.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\c#\\cSharp_task\\section_10.csproj": {
+    "E:\\Projects\\c#\\cSharp_task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\c#\\cSharp_task\\section_10.csproj",
-        "projectName": "section_10",
-        "projectPath": "E:\\Projects\\c#\\cSharp_task\\section_10.csproj",
+        "projectUniqueName": "E:\\Projects\\c#\\cSharp_task\\task.csproj",
+        "projectName": "task",
+        "projectPath": "E:\\Projects\\c#\\cSharp_task\\task.csproj",
         "packagesPath": "C:\\Users\\kareem\\.nuget\\packages\\",
         "outputPath": "E:\\Projects\\c#\\cSharp_task\\obj\\",
         "projectStyle": "PackageReference",

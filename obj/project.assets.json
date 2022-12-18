@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\c#\\section_10\\section_10.csproj",
-      "projectName": "section_10",
-      "projectPath": "E:\\Projects\\c#\\section_10\\section_10.csproj",
+      "projectUniqueName": "E:\\Projects\\c#\\cSharp_task\\task.csproj",
+      "projectName": "task",
+      "projectPath": "E:\\Projects\\c#\\cSharp_task\\task.csproj",
       "packagesPath": "C:\\Users\\kareem\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\c#\\section_10\\obj\\",
+      "outputPath": "E:\\Projects\\c#\\cSharp_task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kareem\\AppData\\Roaming\\NuGet\\NuGet.Config"
